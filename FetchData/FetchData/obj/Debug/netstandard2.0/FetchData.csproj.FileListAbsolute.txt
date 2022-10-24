@@ -1,0 +1,45 @@
+C:\Users\Vitor\Desktop\03\FetchData\FetchData\bin\Debug\netstandard2.0\FetchData.deps.json
+C:\Users\Vitor\Desktop\03\FetchData\FetchData\bin\Debug\netstandard2.0\FetchData.dll
+C:\Users\Vitor\Desktop\03\FetchData\FetchData\bin\Debug\netstandard2.0\FetchData.pdb
+C:\Users\Vitor\Desktop\03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\Desktop\03\FetchData\FetchData\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Vitor\Desktop\03\FetchData\FetchData\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Vitor\Desktop\03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\03\FetchData\FetchData\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Vitor\Desktop\03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.dll
+C:\Users\Vitor\Desktop\03\FetchData\FetchData\obj\Debug\netstandard2.0\refint\FetchData.dll
+C:\Users\Vitor\Desktop\03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.pdb
+C:\Users\Vitor\Desktop\03\FetchData\FetchData\obj\Debug\netstandard2.0\ref\FetchData.dll
+C:\Users\Vitor\Desktop\PDMI6-TP_03\FetchData\FetchData\bin\Debug\netstandard2.0\FetchData.deps.json
+C:\Users\Vitor\Desktop\PDMI6-TP_03\FetchData\FetchData\bin\Debug\netstandard2.0\FetchData.dll
+C:\Users\Vitor\Desktop\PDMI6-TP_03\FetchData\FetchData\bin\Debug\netstandard2.0\FetchData.pdb
+C:\Users\Vitor\Desktop\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\Desktop\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Vitor\Desktop\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Vitor\Desktop\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Vitor\Desktop\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.dll
+C:\Users\Vitor\Desktop\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\refint\FetchData.dll
+C:\Users\Vitor\Desktop\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.pdb
+C:\Users\Vitor\Desktop\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\ref\FetchData.dll
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6-TP_03\FetchData\FetchData\bin\Debug\netstandard2.0\FetchData.deps.json
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6-TP_03\FetchData\FetchData\bin\Debug\netstandard2.0\FetchData.dll
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6-TP_03\FetchData\FetchData\bin\Debug\netstandard2.0\FetchData.pdb
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.csproj.AssemblyReference.cache
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.AssemblyInfoInputs.cache
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.AssemblyInfo.cs
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.csproj.CoreCompileInputs.cache
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.dll
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\refint\FetchData.dll
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.pdb
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6-TP_03\FetchData\FetchData\obj\Debug\netstandard2.0\ref\FetchData.dll
